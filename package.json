@@ -1,0 +1,15 @@
+{
+  "name": "upwork_rss_feed",
+  "version": "1.0.0",
+  "description": "This Node.js script checks an Upwork RSS feed for new job postings and sends an email notification when a new job is detected.",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
