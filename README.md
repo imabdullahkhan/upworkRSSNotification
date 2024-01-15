@@ -24,7 +24,7 @@ bash
 Copy code
 npm install
 Configuration
-Open the upwork-job-notifier.js file.
+Open the upwork-job-notifier.js file
 
 Update the following variables with your information:
 
